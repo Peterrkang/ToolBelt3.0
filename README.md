@@ -1,7 +1,7 @@
 # ToolBelt
 ### DBC Final Project | 2016 Rock Doves
 
-![Alt text](../image/toolbelt.png?raw=true "Optional Title")
+![Alt text](/image/toolbelt.png?raw=true "Optional Title")
 
 
 ## Overview
