@@ -1,6 +1,9 @@
 # ToolBelt
 ### DBC Final Project | 2016 Rock Doves
 
+![Alt text](../image/toolbelt.png?raw=true "Optional Title")
+
+
 ## Overview
 The average use of a power tool over its life in US households is estimated to be less than 30 minutes. This means that many tool owners pay for tools that are only needed once, and that many people that need tools are left with the option to buy or rent from a hardware store.
 
@@ -45,5 +48,3 @@ Using the app users will be able to:
 
 * My account
 * Edit address
-
-
